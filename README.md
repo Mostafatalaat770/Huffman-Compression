@@ -81,7 +81,7 @@ public domain. A copy of CC0 is in the LICENSE file.
     license provided by CC0 are compatible with the GNU GPL."
       - http://www.gnu.org/licenses/license-list.html#CC0
 
-# Authros
+# Authors
 
 - **Mostafa Talaat** - [mostafatalaat770](https://github.com/mostafatalaat770)
 - **Ahmed Swidan** - [ahmed-swidan](https://github.com/ahmed-swidan)
