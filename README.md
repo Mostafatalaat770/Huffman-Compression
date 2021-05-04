@@ -30,8 +30,8 @@ p = Padding done to ensure file fits in whole number of bytes. eg, file of 4 byt
 ## Example
 
 | Content | Comment                               |
-| ------- | ------------------------------------- | --- |
-| 4       | Padding count                         |     |
+| ------- | ------------------------------------- |
+| 4       | Padding count                         |
 | b "11"  | character and corresponding code "11" |
 | a "0"   | character and corresponding code "0"  |
 | c "10"  | character and corresponding code "10" |
